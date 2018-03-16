@@ -129,13 +129,8 @@ Folder Structure
 ----------------
 
 ### examples
-Contains example code. You can load the notebooks as .ipynb directly in GitHub,
+Contains example code and data. You can load the notebooks as .ipynb directly in GitHub,
 or on your system if you know how to use jupyter notebooks.
-
-### exampleData
-Contains example data. It a zipfile with region of interests from ImageJ.
-It also contains three tiff stacks, which have been downsampled and cropped
-from full data from the Rochefort lab.
 
 ### fissa
 Contains the toolbox.
